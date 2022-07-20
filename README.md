@@ -1,4 +1,4 @@
-# vue3-proger
+# vue3-posts
 
 ## Project setup
 ```
